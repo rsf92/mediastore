@@ -1,0 +1,60 @@
+ Mediastore intends to be a free, descentralized and federated alternative
+ to popular media delivery services like Google Play.
+
+Why decentralization?
+
+ Let's think about the real world for a moment. If you want to buy fruit, you
+ might get to one of your local groceries or head to a shopping mall, but in
+ the end, if one tracks down the final product, it does not come from the
+ store where (s)he bought it, but from a farmer who grew it in the first place
+
+ So, we have a system of producers (farmers) and distributors (the stores but
+ also the farmer at local level) where, in principle, any person or group of
+ people can, by means of free enterprise and free asociation, become either one
+ or the other.
+
+ If we look at the Internet today, we see that this approach is somewhat similar,
+ we have various kinds of producers (software companies, music labels - or musicians
+ who self publish their compositions, video makers, book authors..) but, in practicity,
+ the second part of the system, the distribution one, does not work the same way
+ as in the real world, since the distribution process is basically dominated by a few
+ major actors, creating something resembling an oligopoly in digital goods distribution.
+
+ The major concern about this particular issue is that, in a system with few distributors,
+ a few agents on the system have the power to decide what is distributed and what is not,
+ therefore laying the ground for a near-perfect censorship system.
+
+ The way Mediastore tries to solve this is by stablishing a digital network like the one
+ previously described for phisical stores, where it is easy as a producer to stablish your
+ own store and sell  your own works but where third-party agents can also easily setup their
+ own store and import works from whichever authors they desire, taking a fee of every
+ transaction.
+
+ This brings the following advantages:
+
+ - Curation: Let's ilustrate this with an example. Imagine you are visiting a blog
+   which covers music releases. Most likely, if you are a regular visitor of said blog,
+   you might have similar tastes to the people who write in there. If the blog had a
+   digital store where you could find albums by the musicians covered in there, It would
+   come with one of the basic prerequisites for accepting suggestions, confidence, you
+   know which kind of music is promoted by the site, and - presumably- you fall into
+   the target audience for that kind of music, so you're confident that the suggestion
+   is somewhat well informed (by suggestion I mean any item you might find, which is -in
+   a way- suggested for you to buy). This would also provide extra funds for small blogs
+   which will surely appreciate them.
+
+ - Competition: By stablishing a way to set up an online shop in a rather simple way, we
+   will see the amount of such services grow at an amazing speed, which will eventually
+   foster competition and thus, reduce the amount of power that any single provider has
+   over any potential costumer, since he or she might find the same product somewhere
+   else
+
+ And sure there are more advantages to be found
+
+Which is going to be mediastore's architecture?
+
+There are actually two architectures at the same time on mediastore, the one that allows
+for the asotiation of servers on a producer-distributor partnership and the one stablished
+by on the buyer-seller relationship by a mediastore client and a mediastore server. Both
+architectures are somewhat similar, might even share some functionalities, but in the end
+operate as totally different entities

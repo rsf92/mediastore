@@ -1,0 +1,35 @@
+Roadmap of features for mediastore releases
+
+v0.1
+	- Login and register to one server is available
+	- Transfer of books available, no payment implemented yet
+	- Initial interface based on GTK
+
+v0.2
+	- Transfer of videos available, no payment implemented yet
+	- The client should be able to handle downloads of videos on various resolutions
+
+v0.3
+	- Transfer of music albums and songs available, no payment implemented yet
+	- The client should be able to handle downloads of music on various audio codecs
+v0.4
+	- Transfer of software packages, with automated install scripts depending on OS
+
+v0.5
+	- Crypytographic encryption of communication added
+
+v0.6
+	- Updates on installed software packages available
+
+v0.7
+	- Connection to more than one server available, possibility of stablishing preference order of servers, to sort query results
+
+v0.8
+	- Payments added
+
+v0.9
+	- Allow handling of multiple devices for each account
+	- Two factor authentication
+
+1.0
+	- Possibility of adding sales to products offered in the store 	
