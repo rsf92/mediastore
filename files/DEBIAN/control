@@ -1,0 +1,9 @@
+Package: mediaServer
+Version: __version__
+Architecture: all
+Essential: no
+Priority: optional
+Maintainer: Roberto Sánchez
+Size: __binsize__
+Description: Main mediaServer daemon
+

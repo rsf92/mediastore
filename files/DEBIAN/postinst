@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ../scripts
+sh config_psql.sh
+sh create_user_group.sh
+cd -
